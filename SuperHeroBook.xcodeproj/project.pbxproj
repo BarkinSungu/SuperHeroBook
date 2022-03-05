@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DA6E40A727BD9E7100DBBB7E /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA6E40A627BD9E7100DBBB7E /* DetailsViewController.swift */; };
 		DABC6990278623410004EE90 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DABC698F278623410004EE90 /* AppDelegate.swift */; };
 		DABC6992278623410004EE90 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DABC6991278623410004EE90 /* SceneDelegate.swift */; };
 		DABC6994278623410004EE90 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DABC6993278623410004EE90 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DA6E40A627BD9E7100DBBB7E /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 		DABC698C278623410004EE90 /* SuperHeroBook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SuperHeroBook.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DABC698F278623410004EE90 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DABC6991278623410004EE90 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				DABC6998278623430004EE90 /* Assets.xcassets */,
 				DABC699A278623430004EE90 /* LaunchScreen.storyboard */,
 				DABC699D278623430004EE90 /* Info.plist */,
+				DA6E40A627BD9E7100DBBB7E /* DetailsViewController.swift */,
 			);
 			path = SuperHeroBook;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				DABC6994278623410004EE90 /* ViewController.swift in Sources */,
 				DABC6990278623410004EE90 /* AppDelegate.swift in Sources */,
 				DABC6992278623410004EE90 /* SceneDelegate.swift in Sources */,
+				DA6E40A727BD9E7100DBBB7E /* DetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
